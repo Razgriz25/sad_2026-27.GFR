@@ -14,7 +14,7 @@ Vulnera principalmente la Autenticidad, de forma derivada la Integridad y Dispon
 El enfoque es engañar al receptor, suplantando la identidad de otro emisor, permitiendo inyectar código bajo el pseudónimo de otro emisor considerado seguro, destruyendo por completo la garantía del origen, ergo, rompe la Autenticidad
 
 ### Ejemplo o caso real
-(si no lo encontráis, decidlo explícitamente)
+Un caso famoso de las primeras veces que se aplicó esta técnica fue el de Kevin Mitnick en 1994. Este quería acceder ilegalmente al ordenador del experto en seguridad Tsutomu Shimomura. Para realizarlo, falsificó la dirección IP de una máquina de confianza que el sistema del atacado reconociera. Dado que el ataque parecía provenir de una dirección IP conocida y confiable, el sistema objetivo no solicitó una contraseña. Kevin no podría recibir respuestas, puesto que iban dirigidas a la máquina real, pero adivinó los códigos de confirmación para completar el protocolo de enlace y tener acceso unidireccional. Esto le permitió extraer datos y acaparar titulares, demostrando los riesgos de confiar únicamente en las direcciones IP.
 
 ### Medida de prevención
 
