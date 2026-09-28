@@ -1,6 +1,6 @@
 # Ataques de suplantación de identidad
 
-## 1. SMTP spoofing
+## 3. IP spoofing
 
 ### Qué es
 
@@ -17,21 +17,6 @@
 ### Fuente
 (si es vuestro ataque asignado: enlace consultado. Si lo habéis completado 
 en la puesta en común: "Puesta en común — expuesto por [nombre o grupo]")
-
-## 3. IP spoofing
-
-### Qué es
-
-### Cómo se lleva a cabo
-
-### Qué categoría(s) de amenaza compromete
-
-### Ejemplo o caso real
-
-### Medida de prevención
-
-### Fuente
-
 
 
 ## Aplicado a Estudio Torrent
