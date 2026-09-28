@@ -3,11 +3,15 @@
 ## 3. IP spoofing
 
 ### Qué es
+Es una técnica que consiste en falsificar la dirección IP de origen en los paquetes de datos para hacer creer que provienen de una fuente confiable o de otro sistema.
 
 ### Cómo se lleva a cabo
 
+
 ### Qué categoría(s) de amenaza compromete
-(Confidencialidad / Integridad / Autenticidad / Disponibilidad — justificad)
+
+Vulnera principalmente la Autenticidad, de forma derivada la Integridad y Disponibilidad
+El enfoque es engañar al receptor, suplantando la identidad de otro emisor, permitiendo inyectar código bajo el pseudónimo de otro emisor considerado seguro, destruyendo por completo la garantía del origen, ergo, rompe la Autenticidad
 
 ### Ejemplo o caso real
 (si no lo encontráis, decidlo explícitamente)
