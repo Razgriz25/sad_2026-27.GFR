@@ -7,6 +7,12 @@ Es una técnica que consiste en falsificar la dirección IP de origen en los paq
 
 ### Cómo se lleva a cabo
 
+Cómo se lleva a cabo
+1. Todo paquete de red tiene una cabecera con la IP de origen y la de destino.
+2. El ataque modifica el campo de origen y pone otra IP (la de otro equipo, una inventada o la d la propia víctima).
+3. El destino recibe el paquete y cree que viene de esa IP falsa.
+4. Las respuestas se envían a la IP falsificada, no al atacante. Por eso, el spoofing suele usarse cuando el atacante no necesita recibir la respueta.
+
 
 ### Qué categoría(s) de amenaza compromete
 
