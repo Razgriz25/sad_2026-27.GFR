@@ -18,22 +18,6 @@
 (si es vuestro ataque asignado: enlace consultado. Si lo habéis completado 
 en la puesta en común: "Puesta en común — expuesto por [nombre o grupo]")
 
-
-## 2. DNS spoofing
-
-### Qué es
-
-### Cómo se lleva a cabo
-
-### Qué categoría(s) de amenaza compromete
-
-### Ejemplo o caso real
-
-### Medida de prevención
-
-### Fuente
-
-
 ## 3. IP spoofing
 
 ### Qué es
@@ -48,20 +32,6 @@ en la puesta en común: "Puesta en común — expuesto por [nombre o grupo]")
 
 ### Fuente
 
-
-## 4. Captura de cuentas de usuario y contraseñas
-
-### Qué es
-
-### Cómo se lleva a cabo
-
-### Qué categoría(s) de amenaza compromete
-
-### Ejemplo o caso real
-
-### Medida de prevención
-
-### Fuente
 
 
 ## Aplicado a Estudio Torrent
