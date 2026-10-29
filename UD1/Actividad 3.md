@@ -1,7 +1,8 @@
 # Informe de auditoría de vulnerabilidades 
 
 ## 1. Contexto y alcance
-(Qué se ha analizado y por qué)
+Se ha analizado un informe completo conteniendo los elementos expuestos de una maquina MetaSploitable2 incluyendo, puertos, configuraciones, servicios, vulnerabilidades o versiones desactualizadas.  
+Con el propósito de entender y comprender los diferentes tipos de vulnerabilidades y sus caracteristicas
 
 ## 2. Metodología
 (Herramienta usada, tipo de escaneo, objetivo analizado)
