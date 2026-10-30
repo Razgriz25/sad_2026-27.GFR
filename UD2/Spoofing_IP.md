@@ -34,8 +34,9 @@ Se puede prevenir este ataque de varias formas, entre ellos:
 4-Formación en materia de seguridad:*Enseñar a los usuarios a evitar trampas como enlaces sospechosos para mitigar los datos de la suplantación de IP.
 
 ### Fuente
-(si es vuestro ataque asignado: enlace consultado. Si lo habéis completado 
-en la puesta en común: "Puesta en común — expuesto por [nombre o grupo]")
+https://www.keyfactor.com/es/blog/what-it-is-ip-spoofing-how-to-protect-against-it/
+https://www.kaspersky.es/resource-center/threats/ip-spoofing
+https://www.sentinelone.com/es/cybersecurity-101/threat-intelligence/how-to-prevent-ip-spoofing/)
 
 
 ## Aplicado a Estudio Torrent
