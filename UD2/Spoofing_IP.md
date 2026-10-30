@@ -41,6 +41,4 @@ https://www.sentinelone.com/es/cybersecurity-101/threat-intelligence/how-to-prev
 
 ## Aplicado a Estudio Torrent
 
-De los cuatro, ¿cuál creéis que sería el más plausible contra Estudio Torrent 
-(wifi de oficina, ERP online, disco compartido con clientes)? Razonad la respuesta 
-en 3-4 líneas, usando lo que habéis aprendido de los cuatro ataques, no solo del vuestro.
+De los cuatro, el más posible contra Estudio Torrent sería la toma de cuentas y contraseñas de usuarios a través de sniffing en la wifi de la oficina. Esto se debe a que combina un método de ataque fácil de usar (basta con estar dentro del alcance de la red o tener un dispositivo infectado) con un objetivo muy importante: las contraseñas del sistema ERP en línea y del disco compartido con clientes.
